@@ -1,4 +1,4 @@
-h2{
+div:first-child > h2{
     color: red;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -6,7 +6,13 @@ h2{
     color: plum;
     font-size:18px ;
 }
-div{
+div:first-child{
     border: 1px dashed green;
     padding: 6px 8px;
+}
+div:nth-of-type(2) > img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+
 }
