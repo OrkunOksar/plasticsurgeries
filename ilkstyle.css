@@ -1,3 +1,4 @@
+body{background-color: #f2e9de;}
 div:first-child > h2{
     color: red;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
