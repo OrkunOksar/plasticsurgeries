@@ -2,9 +2,11 @@ h2{
     color: red;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-li{
-    color: blue;
-}
-p{
+.cpt{
     color: plum;
+    font-size: ;
+}
+div{
+    border: 1px dashed green;
+    padding: 6px 8px;
 }
