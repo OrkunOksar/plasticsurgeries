@@ -12,7 +12,10 @@ div:first-child{
     padding: 6px 8px;
 }
 div:nth-of-type(2) > img {
-    width: 400px;
+    width: 300px;
+    border: 3px dotted #333;
+    outline: 3px dotted red;
+    outline-offset: 10px;
     display: block;
     margin: 0 auto;
 
